@@ -64,7 +64,7 @@ Siamo sempre aperti a contributi! Se hai idee per migliorare il gioco o hai trov
 ## Autori
 
 - **Leonardo** - [Leozz18](https://github.com/Leozz18)
-- **Antonio** - [Antonio](https://github.com/Antonio)
+- **Antonio** - [Antso](https://github.com/Antonio3732)
 
 ## Licenza
 
